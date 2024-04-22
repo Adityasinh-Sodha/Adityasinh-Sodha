@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AdityaSodha
-- 👀 I’m a student
-- 🔥 I’m currently learning html css python and java
-- 🇮🇳 I’m proudly indian
+- 👋 Hi, I am @AdityaSodha
+- 👀 I am a student
+- 🔥 I am currently learning html css python and java
+- 🇮🇳 I am proudly indian
 - 🌱 If you wish to reach me, please contact me via email at work.adityasodha@gmail.com or adityasodha@yahoo.com.
 - 🎈 Also you can visit my bento prfile at https://bento.me/adityasodha for my other social media accounts.
 - 💎 If you found something helpful, please follow me. Your support is greatly appreciated!
