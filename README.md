@@ -1,11 +1,13 @@
-- 👋 Hi, I am @AdityaSodha
-- 👀 I am a student
-- 🔥 I am currently learning html css python and java
-- 🇮🇳 I am proudly indian
-- 🌱 If you wish to reach me, please contact me via email at work.adityasodha@gmail.com or adityasodha@yahoo.com.
-- 🎈 Also you can visit my bento prfile at https://bento.me/adityasodha for my other social media accounts.
-- 💎 If you found something helpful, please follow me. Your support is greatly appreciated!
-<!---
-AdityaSodha/AdityaSodha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=Aditya Sodha&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
+</a>
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=AdityaSodha&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
+</a>
+
+<a href=#><img src="contributions.svg"></a>
+
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/AdityaSodha/count.svg" />
+</p>
