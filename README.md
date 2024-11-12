@@ -9,6 +9,11 @@
 
 
 <p align="center"><b>🌟 List of My Open Source Projects 🌟</b></p>
+
 <p align="center">
   <a href="https://adityasinh-sodha.github.io/Encrypted-Messaging-System/" target="_blank"><b>Encrypted Messaging System</b></a>
+  </p>
+  
+<p align="center">
+  <a href="https://github.com/Adityasinh-Sodha/Face-Recognition-System/blob/main/main.py" target="_blank"><b>Face Recognition System</b></a>
 </p>
