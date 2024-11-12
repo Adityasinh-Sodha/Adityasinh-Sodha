@@ -17,3 +17,7 @@
 <p align="center">
   <a href="https://github.com/Adityasinh-Sodha/Face-Recognition-System/blob/main/main.py" target="_blank"><b>Face Recognition System</b></a>
 </p>
+
+<p align="center">
+  <a href="https://codepen.io/Adityasinh/full/zYgyENz" target="_blank"><b>Interactive Cards</b></a>
+</p>
