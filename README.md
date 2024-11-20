@@ -21,3 +21,7 @@
 <p align="center">
   <a href="https://codepen.io/Adityasinh/full/zYgyENz" target="_blank"><b>Interactive Cards</b></a>
 </p>
+
+<p align="center">
+  <a href="https://adityasinh-sodha.github.io/MaxEdit/" target="_blank"><b>MaxEdit</b></a>
+</p>
