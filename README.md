@@ -12,8 +12,8 @@
 
 | Projects  | Description  |
 | ------------- |:-------------:|
-| [Encrypted Messaging System](https://adityasinh-sodha.github.io/Encrypted-Messaging-System/)      | Secure and encrypted messaging system that utilizes custom key mapping, rendering it virtually impossible to crack.|
-| [Face Recognition System](https://github.com/Adityasinh-Sodha/Face-Recognition-System/blob/main/main.py)| Face recognition system that stores and uses face data in a specific file. It also recognizes new faces and adds their details to a .pkl file. |
+| [Encrypted Messaging System](https://adityasinh-sodha.github.io/Encrypted-Messaging-System/)      | Encrypt the normal text into custom key mapping.|
+| [Face Recognition System](https://github.com/Adityasinh-Sodha/Face-Recognition-System/blob/main/main.py)| Detect and store new Face data in a file and recognize old faces. |
 | [Interactive Cards](https://codepen.io/Adityasinh/full/zYgyENz)      | Collection of flipping music cards in HTML.   |
 | [Phisher](https://github.com/Adityasinh-Sodha/Phisher)       |   Expert level script for performing phishing attacks only for educational purpose             |
 | [MaxEdit](https://adityasinh-sodha.github.io/MaxEdit/) |   Live Markdown editor                    |
