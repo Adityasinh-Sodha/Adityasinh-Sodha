@@ -6,22 +6,16 @@
   <img src="https://github.com/user-attachments/assets/62e7112a-2522-475f-a4fb-9000ead0ea5e" alt="Profile GIF" width="150" />
 </p>
 
-
-
 <p align="center"><b>🌟 List of My Open Source Projects 🌟</b></p>
 
-<p align="center">
-  <a href="https://adityasinh-sodha.github.io/Encrypted-Messaging-System/" target="_blank"><b>Encrypted Messaging System</b></a>
-  </p>
-  
-<p align="center">
-  <a href="https://github.com/Adityasinh-Sodha/Face-Recognition-System/blob/main/main.py" target="_blank"><b>Face Recognition System</b></a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://codepen.io/Adityasinh/full/zYgyENz" target="_blank"><b>Interactive Cards</b></a>
-</p>
+| Projects  | Description  |
+| ------------- |:-------------:|
+| [Encrypted Messaging System](https://adityasinh-sodha.github.io/Encrypted-Messaging-System/)      | Secure and encrypted messaging system that utilizes custom key mapping, rendering it virtually impossible to crack.|
+| [Face Recognition System](https://github.com/Adityasinh-Sodha/Face-Recognition-System/blob/main/main.py)| Face recognition system that stores and uses face data in a specific file. It also recognizes new faces and adds their details to a .pkl file. |
+| [Interactive Cards](https://codepen.io/Adityasinh/full/zYgyENz)      | Collection of flipping music cards in HTML.   |
+| [Phisher](https://github.com/Adityasinh-Sodha/Phisher)       |   Expert level script for performing phishing attacks only for educational purpose             |
+| [MaxEdit](https://adityasinh-sodha.github.io/MaxEdit/) |   Live Markdown editor                    |
 
-<p align="center">
-  <a href="https://adityasinh-sodha.github.io/MaxEdit/" target="_blank"><b>MaxEdit</b></a>
-</p>
+</div>
