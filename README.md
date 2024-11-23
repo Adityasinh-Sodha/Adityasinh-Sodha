@@ -12,10 +12,10 @@
 
 | Projects  | Description  |
 | ------------- |:-------------:|
-| [Encrypted Messaging System](https://adityasinh-sodha.github.io/Encrypted-Messaging-System/)      | Encrypt the normal text into custom key mapping.|
-| [Face Recognition System](https://github.com/Adityasinh-Sodha/Face-Recognition-System/blob/main/main.py)| Detect and store new Face data in a file and recognize old faces. |
+| [Encrypted Messaging System](https://adityasinh-sodha.github.io/Encrypted-Messaging-System/)      | Encrypt the normal text into a custom key mapping.|
+| [Face Recognition System](https://github.com/Adityasinh-Sodha/Face-Recognition-System/blob/main/main.py)| Detect and store new Face data in a file and use it for recognizing faces. |
 | [Interactive Cards](https://adityasinh-sodha.github.io/Interactive-Cards/)      | Collection of flipping music cards in HTML.   |
-| [Phisher](https://github.com/Adityasinh-Sodha/Phisher)       |   Expert level script for performing phishing attacks only for educational purpose             |
+| [Phisher](https://github.com/Adityasinh-Sodha/Phisher)       |   Expert level script for performing phishing attacks, only for educational purpose.             |
 | [MaxEdit](https://adityasinh-sodha.github.io/MaxEdit/) |   Live Markdown editor                    |
 
 </div>
