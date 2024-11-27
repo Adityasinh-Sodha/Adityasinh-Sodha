@@ -10,13 +10,12 @@
 
 <div align="center">
 
-| Projects  | 
-| --------------------------- |
-| [Encrypted Messaging System](https://adityasinh-sodha.github.io/Encrypted-Messaging-System/)      | 
-| [Face Recognition System](https://github.com/Adityasinh-Sodha/Face-Recognition-System/blob/main/main.py)| 
-| [Interactive Cards](https://adityasinh-sodha.github.io/Interactive-Cards/)      | 
-| [DDOS-Simulator](https://github.com/Adityasinh-Sodha/DDOS-Simulator)      | 
-| [Phisher](https://github.com/Adityasinh-Sodha/Phisher)       |   
+| Projects  | Description  |
+| ------------- |:-------------:|
+| [Encrypted Messaging System](https://adityasinh-sodha.github.io/Encrypted-Messaging-System/)      | Encrypt the normal text into a custom key mapping.|
+| [Face Recognition System](https://github.com/Adityasinh-Sodha/Face-Recognition-System/blob/main/main.py)| Detect and store new Face data in a file and use it for recognizing faces. |
+| [DDOS-Simulator](https://github.com/Adityasinh-Sodha/DDOS-Simulator)      | DDOS-Simulator is a script designed for perform Distributed Denial of Service (DDOS) attacks. |
+| [Phisher](https://github.com/Adityasinh-Sodha/Phisher)       |   Expert level script for performing phishing attacks, only for educational purpose.             |
 
 
 </div>
