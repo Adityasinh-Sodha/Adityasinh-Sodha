@@ -1,3 +1,4 @@
+<div> 
 <h1 align="center">Hi 👋, I'm <a href="https://bento.me/adityasinh" target="_blank">Aditya</a></h1>
 
 <!-- Hey, wait a minute! What are you doing in my README.md file? Tell me, you're copying my content, right? I know it! -->
@@ -19,7 +20,7 @@
 </p>
 
 <p align="center"><b>🌟 List of My Open Source Projects 🌟</b></p>
-
+</div>
 <div align="center">
 
 | Projects  | Description  |
