@@ -19,8 +19,7 @@
   </a>
 </p>
 
-<p align="center"><b>🌟 List of My Open Source Projects 🌟</b></p>
-</div>
+<div> <p align="center"><b>🌟 List of My Open Source Projects 🌟</b></p> </div>
 <div align="center">
 
 | Projects  | Description  |
