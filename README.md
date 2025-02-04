@@ -21,7 +21,7 @@
 
 <div> <p align="center"><b>🌟 List of My Open Source Projects 🌟</b></p> </div>
 <div align="center">
-
+<!--
 | Projects  | Description  |
 | ------------- |:-------------:|
 | [Face Recognition System](https://github.com/Adityasinh-Sodha/Face-Recognition-System/)| Detect and store new Face data in a file and use it for recognizing faces. |
@@ -29,7 +29,7 @@
 | [PhisherMan](https://github.com/Adityasinh-Sodha/PhisherMan)       |   Expert level script for performing phishing attacks, only for educational purpose. |
 | [MaxEdit](https://adityasinh-sodha.github.io/MaxEdit/)       |   Live Markdown Editor That support HTML too |
 | [AirLink](https://airlink.up.railway.app/)      | Airlink is a tool to share files wirelessly on local devices.|
-
+-->
 
 
 
