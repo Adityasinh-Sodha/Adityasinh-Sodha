@@ -27,8 +27,8 @@
 | [Face Recognition System](https://github.com/Adityasinh-Sodha/Face-Recognition-System/)| Detect and store new Face data in a file and use it for recognizing faces. |
 | [DDOS-Simulator](https://github.com/Adityasinh-Sodha/DDOS-Simulator)      | DDOS-Simulator is a script designed for perform Distributed Denial of Service (DDOS) attacks. |
 | [PhisherMan](https://github.com/Adityasinh-Sodha/PhisherMan)       |   Expert level script for performing phishing attacks, only for educational purpose. |
-| [MaxEdit](https://adityasinh-sodha.github.io/MaxEdit/)       |   Live Markdown Editor That support HTML too |
-| [AirLink](https://airlink.up.railway.app/)      | Airlink is a tool to share files wirelessly on local devices.|
+| [MaxEdit](https://adityasinh-sodha.github.io/MaxEdit/)       |   Live Markdown Editor That support HTML too. |
+| [AirLink](https://airlink.up.railway.app/)      |  AirLink is a user-friendly web-based file-sharing platform.|
 
 
 
