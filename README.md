@@ -24,7 +24,7 @@
   
 | Projects  | Description  |
 | ------------- |:-------------:|
-| [DDOS-Simulator](https://github.com/Adityasinh-Sodha/DDOS-Simulator)      | Script designed for perform DDOS attacks. |
+| [DDOS-Simulator](https://github.com/Adityasinh-Sodha/DDOS-Simulator)      | Script designed to perform DDOS attacks. |
 | [PhisherMan](https://github.com/Adityasinh-Sodha/PhisherMan)       |   Script for performing phishing attacks. |
 | [MaxEdit](https://adityasinh-sodha.github.io/MaxEdit/)       |   Live Markdown Editor That support HTML too. |
 | [AirLink](https://airlink.up.railway.app/)      |  AirLink is a user-friendly web-based file-sharing platform.|
